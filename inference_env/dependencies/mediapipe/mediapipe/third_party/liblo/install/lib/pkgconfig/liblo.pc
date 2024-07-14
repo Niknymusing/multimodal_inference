@@ -1,0 +1,10 @@
+prefix=/Users/nikny/mediapipe/mediapipe/third_party/liblo/install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: liblo
+Version: 0.32
+Description: A lightweight OSC server/client library
+Libs: -L${libdir} -llo  
+Cflags: -I${includedir}
