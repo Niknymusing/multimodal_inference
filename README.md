@@ -69,10 +69,5 @@ python instantiate_models.py
 
 This script is located in the top directory of the project.
 
-## Final Notes
-Follow the above steps to ensure the setup and functionality of both applications. If you encounter any issues with dependency configurations, review and adjust the respective build scripts and CMake configurations as necessary.
-
-
-
 
 
